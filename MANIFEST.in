@@ -1,0 +1,4 @@
+include *.txt2
+recursive-include src *.txt2
+prune src/shouldBePrune
+prune src/txt2/exclude.py
