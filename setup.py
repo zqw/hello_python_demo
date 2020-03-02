@@ -6,7 +6,7 @@ setup(
     description="安装hello_python并打包上传pypi",
     author="zhaoqiangwei",
     author_email="demo@qq.com",
-    url="https://www.baidu.com",
+    url="https://github.com/zqw/hello_python",
     license="MIT",
     keywords=["hello_python", "hello_python_demo"],
 
