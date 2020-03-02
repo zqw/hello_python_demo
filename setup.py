@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="hello_python",
+    name="hello_python_demo",
     version="1.0",
     description="安装hello_python并打包上传pypi",
     author="zhaoqiangwei",
