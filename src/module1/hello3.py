@@ -1,2 +1,2 @@
-def hello_python():
+def hello_python_demo():
     print("hello python old!")
